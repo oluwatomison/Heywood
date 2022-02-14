@@ -10,3 +10,7 @@ Run command sudo yarn install to install necessary typescript packages.
 ## Run
 
 yarn next dev
+
+## Output
+
+The output is displayed on the console
